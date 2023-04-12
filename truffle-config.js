@@ -15,7 +15,7 @@ module.exports = {
         `https://goerli.infura.io/v3/${process.env.INFURA_API_KEY}`),
       network_id: 5,
       gas: 4000000,
-      gasPrice: 10000000000
+      gasPrice: 40000000000
     },
   },
   contracts_directory: './src/contracts/',
